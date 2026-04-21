@@ -71,19 +71,19 @@ Although this started as an assignment, I’m keeping it public as a reflection 
 cd "C:\Users\Nu_el\OneDrive\Desktop"
 ```
 
- Moves terminal into my Desktop directory / folder.
+ Moves terminal into my Desktop directory.
 
 ```bash id="5e1i8q"
 mkdir learn_git
 ```
 
- 📁Created the project folder named `learn_git` used to practice this assignment.
+ 📁Created the directory / project folder named `learn_git` used to practice this assignment.
 
 ```bash id="m0v3gq"
 cd learn_git
 ```
 
- 📂Changes / Moves directory into the newly created project folder `learn_git`.
+ 📂Changes directory / Moves into the newly created project folder `learn_git`.
 
 ```bash id="4q1y3j"
 git init
@@ -147,7 +147,7 @@ git config --global --list
 
  ⚠️🌐 GitHub Note
 
-The process of pushing this project to GitHub was done a different directory and is not fully covered in this README, but commands used include:
+The process of pushing this project to GitHub was done on a different directory and is not fully covered in this README, but commands used include:
 
 ```bash
 git remote add origin https://github.com/Cyb3rcde/Git_and_Github_Project.git
@@ -169,8 +169,7 @@ git push -u origin main
 
 ## 📝 Personal Note
 
-This repository represents my early steps into Git, Github and software development as a whole. I’m keeping it public as a reminder of where I started and how I built my knowledge over time. It reflects not just what I learned, but how I learned, including mistakes, fixes, and experimentation.
-
+This repository represents my early steps into Git, Github and software development as a whole. I’m keeping it public as a reminder of where I started and how I built my knowledge over time. It reflects not just what I learned, but how I learned, including mistakes, fixes, and experimenting. I'm happy that I managed to finish this on my first attempt, all on my own.
 ---
 
 ## 👤 Author
