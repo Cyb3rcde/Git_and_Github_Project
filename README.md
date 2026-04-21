@@ -23,7 +23,7 @@ It also serves as a record of my early development process, mistakes encountered
 
 ---
 
-## 📌 Project Purpose
+## 🎯 Project Purpose
 
 This project was created to primarily to practice core Git workflows such as:
 
