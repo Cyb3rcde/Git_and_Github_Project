@@ -51,7 +51,7 @@ Although this started as an assignment, I’m keeping it public as a reflection 
 
 ---
 
-## Skills Demonstrated
+## 🧠Skills Demonstrated
 
 ✅ Version Control Basics
 ✅ Command Line Usage / Navigation
@@ -170,6 +170,7 @@ git push -u origin main
 ## 📝 Personal Note
 
 This repository represents my early steps into Git, Github and software development as a whole. I’m keeping it public as a reminder of where I started and how I built my knowledge over time. It reflects not just what I learned, but how I learned, including mistakes, fixes, and experimenting. I'm happy that I managed to finish this on my first attempt, all on my own.
+
 ---
 
 ## 👤 Author
