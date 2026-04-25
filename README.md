@@ -113,7 +113,7 @@ git commit -m "adding third.txt"
 git log
 ```
 
- 🔍Displays commit history.
+ 🔍Displays commit history of current branch.
 
 ```bash id="m56v6s"
 touch fourth.txt
