@@ -183,4 +183,11 @@ GitHub: https://github.com/Cyb3rcde
 
 ## 📄 License
 
-This project is open for learning and educational purposes.
+## License & Important Note
+
+This project is currently licensed under the **MIT License**. You are free to use, modify, 
+and distribute this code for any purpose (educational, commercial, etc.) as long as you 
+provide attribution.
+
+**Important:** I reserve the right to change the license terms for future versions of this 
+project. Previous releases will continue to be available under their original license terms.
