@@ -121,7 +121,7 @@ git add .
 git commit -m "adding fourth.txt"
 ```
 
- 🔁Created, staged and committed another file. (`git add .` stages all changes in current folder)
+ 🔁Created, staged and committed another file. (`git add .` stages all changes in current folder).
 
 ```bash id="v6k7ii"
 rm -rf third.txt
