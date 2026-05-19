@@ -175,9 +175,9 @@ This repository represents my early steps into Git, Github and software developm
 
 ## 👤 Author
 
-**Cyb3rcde**
+**Cyb3rc-de**
 
-GitHub: https://github.com/Cyb3rcde
+GitHub: https://github.com/Cyb3rc-de
 
 ---
 
